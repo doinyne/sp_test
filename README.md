@@ -1,6 +1,6 @@
-*** Smart Pension *** 
+***Smart Pension*** 
 
-**test requirements**
+**tech test requirements**
 
 The test is as follows:
 
@@ -19,5 +19,7 @@ b. Returns the following:
 e.g.:
 /about/2 8 unique views 
 /index 5 unique views etc...
+
+Dean's commits
 
 Set up ruby files, rspec and simplecov
