@@ -2,6 +2,6 @@ require 'parsing.rb'
 
 describe Parsing do
   it 'returns nothing' do
-    expect(page.parse).to eq "something" 
+    expect(parse).to eq(5)
   end
 end
