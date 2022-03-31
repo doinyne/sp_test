@@ -1,4 +1,4 @@
-*** Smart Pension *** 
+** Smart Pension ** 
 
 **test requirements**
 
