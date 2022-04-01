@@ -28,7 +28,7 @@ PLATFORMS
 
 DEPENDENCIES
   rspec (~> 3.11)
-  simplecov (~> 0.21.2)
+  simplecov
 
 RUBY VERSION
    ruby 3.0.0p0
