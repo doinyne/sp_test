@@ -20,6 +20,12 @@ e.g.:
 /about/2 8 unique views 
 /index 5 unique views etc...
 
-Dean's commits
+Dean's commits - poa's
 
 Set up ruby files, rspec and simplecov
+
+get ruby to read the webserver.log file
+
+at the moment I can read the webserver log as a method.
+
+next... look into manipulating the data and creating arguements. 

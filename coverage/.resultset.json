@@ -5,23 +5,30 @@
         "lines": [
           1,
           null,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
           null,
           null
         ]
       },
-      "/Users/deanlewis/tech_tests/smart_pension/sp_test/lib/parsing.rb": {
+      "/Users/deanlewis/tech_tests/smart_pension/sp_test/lib/parser.rb": {
         "lines": [
           1,
           1,
           0,
           null,
+          null,
+          1,
+          null,
+          0,
+          0,
+          null,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1648817685
+    "timestamp": 1648820145
   }
 }
