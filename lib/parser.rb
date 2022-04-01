@@ -1,13 +1,8 @@
+server = File.open("/Users/deanlewis/Desktop/Smart_Pension_-_Take_Home_Ruby_test__7_/ruby_app/webserver.log")
+file_data = server.read
+puts file_data
+
 class Parsing
-  def add
-    return 2 + 3
+  def parse
   end
-  web_server_logger = 
-
-
-
-  def view_server_log
-    web_server_logger
-  end
-
 end
