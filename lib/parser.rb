@@ -6,12 +6,10 @@ class Parsing
 
   def parse
     file_data = file.read
-    puts file_data
   end
 
   def info
     file_data = file.size
-    puts file_data
   end
 
 end
