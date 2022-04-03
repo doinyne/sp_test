@@ -1,27 +1,6 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/deanlewis/tech_tests/smart_pension/sp_test/spec/parsing_spec.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
-      "/Users/deanlewis/tech_tests/smart_pension/sp_test/lib/parser.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          4,
-          null,
-          null,
-          1,
-          2,
-          null,
-          null,
-          null
-        ]
-      },
       "/Users/deanlewis/tech_tests/smart_pension/sp_test/spec/searching_spec.rb": {
         "lines": [
           1,
@@ -42,9 +21,6 @@
           1,
           null,
           null,
-          null,
-          null,
-          1,
           1,
           1,
           1,
@@ -64,17 +40,15 @@
           1,
           null,
           1,
-          4,
+          8,
+          null,
+          null,
+          1,
+          6,
           null,
           null,
           1,
           4,
-          null,
-          null,
-          null,
-          1,
-          4,
-          null,
           null,
           null,
           1,
@@ -82,15 +56,10 @@
           1002,
           2,
           null,
-          null,
-          1,
-          0,
-          null,
-          null,
           null
         ]
       }
     },
-    "timestamp": 1649016169
+    "timestamp": 1649017553
   }
 }
