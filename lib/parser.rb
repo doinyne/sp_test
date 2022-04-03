@@ -7,4 +7,5 @@ class Parsing
   def reader(func = method(:file))
     file.read
   end
+  
 end
