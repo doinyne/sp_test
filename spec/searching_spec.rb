@@ -25,5 +25,9 @@ describe Searching do
     expect(log.remove_num).not_to include("1,2,3,4,5,6,7,8,9,10")
   end
 
-  
+  it 'should output number of visits in order, higher numbers first' do
+    log = Searching.new
+    log.word_list
+    expect(log.word_list).to include(["about", 171], ["contact", 89], ["index", 82], ["help_page", 80], ["home", 78])
+  end
 end
