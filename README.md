@@ -19,10 +19,16 @@ Hello, here is my solution to the Smart Ruby Developer Test. I have tried my bes
  ```
  bundle install
  ```
+ 
+ ## CLI results 
+ ![Screenshot 2022-04-03 at 21 26 09](https://user-images.githubusercontent.com/68062425/161447647-7db1b21c-b49c-4a78-af8a-4a57f587f1d7.png)
+
+ ![Screenshot 2022-04-03 at 21 26 54](https://user-images.githubusercontent.com/68062425/161447653-30149e1a-f44c-4138-8f2f-78c950c7cbfe.png)
 
 
 
-* Dean's commits - poa's
+
+* Dean's plans
 
 Set up ruby files, rspec and simplecov
 
