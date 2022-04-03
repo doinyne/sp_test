@@ -11,9 +11,11 @@ class Searching
   # i need a hash to return how many times a word appears in the string / log file
   def word_list
     list = Hash.new(0)
+    reader.scan(/\w+/) { |word| list[word] += 1 }
+    list
   end
   
-  def amount_of_words
+  def amount_of_words 
     reader.scan(/\w+/)
   end
   
